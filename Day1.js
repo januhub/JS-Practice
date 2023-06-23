@@ -1,4 +1,5 @@
-// a function which will print based on n 
+
+// a function which will print letters based on n 
 // 1 => a
 // 2 => abb
 // 3 => abbccc
