@@ -1,8 +1,10 @@
-//Add up the Numbers from a Single Number
+/*Add up the Numbers from a Single Number
+addUp(4) ➞ 10
+addUp(13) ➞ 91
+addUp(600) ➞ 180300
+*/
 
-//addUp(4) ➞ 10
-//addUp(13) ➞ 91
-//addUp(600) ➞ 180300
+// Add numbers upto n
 
 function addUp(num) {
     let sum = 0;
