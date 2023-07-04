@@ -1,3 +1,4 @@
+
 const number = parseInt(prompt('Enter a positive number: '));
 let n1 = 0, n2 = 1, nextTerm;
 
