@@ -1,6 +1,3 @@
-// program to count the number of vowels in a string
-// defining vowels
-
 const vowels = ["a", "e", "i", "o", "u"]
 function countVowel(str) {
     // initialize count
